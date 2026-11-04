@@ -11,6 +11,7 @@ If you’re unhoused or homeless, it is not safe to park and sleep anywhere in O
 ## Reach Out to Us
 
 hello+spoc+onenbstgvsh@safeparkingorangecounty.com
+
 Located at the corner of Barranca and Flight Way.
 
 1703 Flight Way, Tustin, CA 92782
@@ -19,9 +20,9 @@ Located at the corner of Barranca and Flight Way.
 
 Please TEXT/SMS before calling.
 
-[SMS](sms:+17146423931)
+sms:+17146423931
 
-(tel:+17146423931)
+tel:+17146423931
 
 
 ## .github for Safe Parking Orange County
