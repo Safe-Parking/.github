@@ -10,4 +10,4 @@ If you’re unhoused or homeless, it is not safe to park and sleep anywhere in O
 
 ## .github for Safe Parking Orange County
 
-(safeparkingorangecounty.com)
+[website](safeparkingorangecounty.com)
