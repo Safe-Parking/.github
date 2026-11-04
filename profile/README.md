@@ -8,6 +8,4 @@ If you’re unhoused or homeless, it is not safe to park and sleep anywhere in O
 
 6AM to 10PM Access
 
-## .github for Safe Parking Orange County
-
 [website](safeparkingorangecounty.com)
