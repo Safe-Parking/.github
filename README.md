@@ -19,9 +19,9 @@ Located at the corner of Barranca and Flight Way.
 
 Please TEXT/SMS before calling.
 
-sms:+17146423931
+[SMS](sms:+17146423931)
 
-tel:+17146423931
+(tel:+17146423931)
 
 
 ## .github for Safe Parking Orange County
